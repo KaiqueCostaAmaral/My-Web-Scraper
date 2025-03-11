@@ -46,6 +46,11 @@ Siga os passos abaixo para configurar o projeto localmente.
    ```bash
    git clone https://github.com/KaiqueCostaAmaral/My-Web-Scraper.git
 
+2. **Baixar os imports necessarios**:
+ 
+   ```bash
+   pip install -r requirements.txt
+
 ## Como Usar
 
 
@@ -54,7 +59,7 @@ Siga os passos abaixo para iniciar o programa
 1. **Vá até a pasta com o arquivo .py**:
 
     ```bash
-   cd scraper
+   cd src
 
 2. **Inicie o arquivo .py**:
 
